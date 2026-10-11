@@ -22,7 +22,7 @@ My goal is to develop practical skills in web application penetration testing, H
 
 | # | Lab | Category | Status |
 |---|---|---|---|
-| 01 | [File Path Traversal — Simple Case](./File-Path-Traversal/README.md) | Path Traversal | Solved |
+| 01 | [File Path Traversal — Simple Case](./File-Path-Traversal/PathTraversal.md) | Path Traversal | Solved |
 | 01 | [Access Control - Simple Case](./File-Path-Traversal/README.md) | Access Control | Solved |
 
 ## Learning Methodology
